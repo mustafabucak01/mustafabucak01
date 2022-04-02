@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mustafa</h1>
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafabucak01" alt="mustafabucak01" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafabucak01" alt="mustafabucak01" /></a> </p>
 
 - 🔭 I’m currently working as **Freelance**
 
@@ -39,6 +39,7 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303635/trello-logo.svg" alt="trello" width="40" height="40"></a>
 <a href="https://www.discord.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="discord" width="40" height="40"></a>
 <h3 align="left">Statics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafabucak01&show_icons=true&locale=en&layout=compact" alt="mustafabucak01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafabucak01&show_icons=true&locale=en" alt="mustafabucak01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabucak01&" alt="mustafabucak01" /></p>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafabucak01&show_icons=true&locale=en&layout=compact" alt="mustafabucak01" /></p>-->
+
