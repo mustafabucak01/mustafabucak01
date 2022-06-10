@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mustafa</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafabucak01" alt="mustafabucak01" /></a> </p>
 
-- 🌱 I’m currently learning **JS, React JS**
+- 🌱 I’m currently learning **JS, NodeJS**
 
 - 💬 Ask me about **CodeIgniter, PHP, SEO**
 
